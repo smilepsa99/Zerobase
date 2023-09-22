@@ -1,4 +1,4 @@
-package week_03._1;
+package week_03.practice;
 // [프로그래머스] 짝수는 싫어요
 
 import java.util.Scanner;

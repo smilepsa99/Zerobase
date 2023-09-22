@@ -1,11 +1,10 @@
-package week_03._1;
+package week_03.practice;
 // [백준] 10807번 개수세기
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Hashtable;
-import java.util.Scanner;
 import java.util.StringTokenizer;
 
 public class _05 {

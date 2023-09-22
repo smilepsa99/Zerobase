@@ -1,4 +1,4 @@
-package week_03._1;
+package week_03.practice;
 // 실패 (비트연산 비튼게 이해가 잘 안되서 포기함)
 
 import java.util.Scanner;

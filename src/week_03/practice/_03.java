@@ -1,4 +1,4 @@
-package week_03._1;
+package week_03.practice;
 
 import java.util.EmptyStackException;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package week_03._1;
+package week_03.practice;
 // [프로그래머스] 숫자 문자열과 영단어
 
 import java.util.Scanner;
