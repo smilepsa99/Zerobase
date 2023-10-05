@@ -33,6 +33,7 @@ public class _04 {
 //        pointer[0] += jump;
 //        if (pointer[0] > N-1) System.out.println(false);
 
-
+        // 커밋이 왜 안되지?
+        System.out.println("커밋이 왜 안되지?");
     }
 }
