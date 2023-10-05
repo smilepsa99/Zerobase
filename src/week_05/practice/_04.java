@@ -32,8 +32,5 @@ public class _04 {
 //        int jump = game[pointer[0]][pointer[1]];
 //        pointer[0] += jump;
 //        if (pointer[0] > N-1) System.out.println(false);
-
-        // 커밋이 왜 안되지?
-        System.out.println("커밋이 왜 안되지?");
     }
 }
